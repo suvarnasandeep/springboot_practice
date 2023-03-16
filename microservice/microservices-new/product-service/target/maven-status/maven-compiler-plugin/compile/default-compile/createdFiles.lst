@@ -1,0 +1,10 @@
+com\sandeep\productservice\dto\ProductResponse.class
+com\sandeep\productservice\ProductServiceApplication.class
+com\sandeep\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\sandeep\productservice\model\Product.class
+com\sandeep\productservice\repository\ProductRepository.class
+com\sandeep\productservice\controller\ProductController.class
+com\sandeep\productservice\model\Product$ProductBuilder.class
+com\sandeep\productservice\service\ProductService.class
+com\sandeep\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\sandeep\productservice\dto\ProductRequest.class

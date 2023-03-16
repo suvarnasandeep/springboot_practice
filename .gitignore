@@ -5,3 +5,9 @@
 /git-localconfig-repo
 /udemyShopMe
 /udemy_spring-microservices-master.zip
+microservice_1/my-app/.idea/*
+microservice/inventory-service/*
+microservice/.idea/*
+microservice/product-service/*
+microservice/order-service/*
+microservice/order-service/

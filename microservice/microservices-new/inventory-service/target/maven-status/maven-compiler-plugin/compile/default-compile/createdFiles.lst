@@ -1,0 +1,5 @@
+com\sandeep\inventoryservice\controller\InventoryController.class
+com\sandeep\inventoryservice\service\InventoryService.class
+com\sandeep\inventoryservice\repository\InventoryRepository.class
+com\sandeep\inventoryservice\model\Inventory.class
+com\sandeep\inventoryservice\InventoryServiceApplication.class
