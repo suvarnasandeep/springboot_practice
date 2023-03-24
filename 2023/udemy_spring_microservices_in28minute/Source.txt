@@ -5,3 +5,5 @@ https://github.com/in28minutes/spring-microservices/tree/master/02.restful-web-s
 
 api documentation
 http://localhost:8080/swagger-ui/index.html
+
+JPA demo - demo-jpa-hibernate
