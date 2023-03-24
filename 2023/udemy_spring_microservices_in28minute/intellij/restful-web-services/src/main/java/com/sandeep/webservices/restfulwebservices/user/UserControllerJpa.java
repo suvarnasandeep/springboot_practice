@@ -28,6 +28,7 @@ public class UserControllerJpa {
 
 	public UserControllerJpa(UserRepository userRepository, UserPostRepository userPostRepository) {
 		this.userRepository = userRepository;
+
 		this.userPostRepository=userPostRepository;
 	}
 
