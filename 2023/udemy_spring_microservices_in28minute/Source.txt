@@ -7,3 +7,8 @@ api documentation
 http://localhost:8080/swagger-ui/index.html
 
 JPA demo - demo-jpa-hibernate
+
+
+microservices
+https://github.com/in28minutes/spring-microservices/tree/master/03.microservices
+https://flexera.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/learn/lecture/8005708#overview
