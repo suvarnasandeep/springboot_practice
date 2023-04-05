@@ -9,13 +9,13 @@ import com.sandeep.microservices.limitsservices.configuration.Configuration;
 
 @RestController
 public class LimitController {
-	
+
 	@Autowired
 	private Configuration configuration;
 
 	@GetMapping("/limits")
 	public Limits retrieveLimits() {
-		//return new Limits(1,1000);
+		// return new Limits(1,1000);
 		return new Limits(configuration.getMinimum(), configuration.getMaximum());
 	}
 }
