@@ -1,2 +1,0 @@
-https://www.youtube.com/watch?v=0TQliqoX6Kc&list=PLtLnN9DWKbviBjZq6NEq29lW8XVqir6bG&index=39&t=1180s
-https://github.com/SaiUpadhyayula/spring-boot-microservices-new
